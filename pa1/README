@@ -1,0 +1,13 @@
+// ---------------------
+// Duy Nguyen
+// duminguy (W1475318)
+// 1/10/17
+// README file
+// ---------------------
+
+List.java			List module that contains various ADT operations
+ListClient.java			Client file to test List.java
+Lex.java			Takes in an input file and prints the sort version to the output file
+Makefile			Compiles and makes executable jar file for Lex.java
+README				Content of files being submitted
+

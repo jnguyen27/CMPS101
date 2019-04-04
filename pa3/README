@@ -1,0 +1,14 @@
+// ---------------------
+// Duy Nguyen
+// duminguy (W1475318)
+// 2/10/17
+// README file
+// ---------------------
+
+List.java			List module that contains various ADT operations
+ListTest.java			File to test List.java
+Sparse.java			Takes input file and creates output file (creating the matrix)
+Matrix.java			Matrix module that contains various ADT operations
+MatrixTest.java			File to test Matrix.java
+Makefile			Compiles and makes executable jar file for Sparse.java
+README				Content of files being submitted

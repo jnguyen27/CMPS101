@@ -1,0 +1,14 @@
+// ---------------------
+// Duy Nguyen
+// duminguy (W1475318)
+// 1/10/17
+// README file
+// ---------------------
+
+List.c				List module that contains various ADT operations
+List.h				Interface file for List.c
+ListClient.c			Client file to test List.c
+Lex.c				Takes in an input file and prints the sorted version to the output file
+Makefile			Compiles and makes executable jar file for Lex.c and ListClient.c
+README				Content of files being submitted
+

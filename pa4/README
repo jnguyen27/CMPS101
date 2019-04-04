@@ -1,0 +1,17 @@
+// --------------------
+// Duy Nguyen
+// duminguy (W1475318)
+// 2/16/17
+// README file
+// --------------------
+
+List.c		List Module that contains various ADT operations
+List.h		Interface file for List.c
+Graph.c		Graph module that contains various ADT operations
+Graph.h		Interface file for Graph.c
+GraphTest.c	Test file for Graph.c
+FindPath.c	Takes in command line arguments and an input file and produces
+		an output file accordingly
+Makefile	Compiles and makes executable jar file for GraphClient and
+		FindPath and also checks memory leaks 
+README		Content of files being submitted
