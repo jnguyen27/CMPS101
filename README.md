@@ -1,2 +1,2 @@
 # CMPS101
-Algorithms and Abstract Data Types taken in Winter 17 with Patrick Tantalo
+Algorithms and Abstract Data Types taken in Winter 17 with Patrick Tantalo at UCSC
